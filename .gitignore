@@ -1,0 +1,60 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+out/
+
+Debug/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.lock
+*.cache
+*.coverage
+*.class
+*.iml
+*.ipr
+*.iws
+
+# Ignore local Git configuration
+.gitconfig
